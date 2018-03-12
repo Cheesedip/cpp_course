@@ -1,0 +1,3 @@
+/home/maikel/cpp_course/my_code/Lecture_3/build/CMakeFiles/rebuild_cache.dir
+/home/maikel/cpp_course/my_code/Lecture_3/build/CMakeFiles/edit_cache.dir
+/home/maikel/cpp_course/my_code/Lecture_3/build/CMakeFiles/main.dir
